@@ -1,0 +1,34 @@
+.appBody {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.favorites {
+    margin: 5px auto auto auto;
+    flex: 0 0 33%;
+    border-color: black;
+    border-width: 1.5px;
+    border-style: solid;
+    padding: 20px;
+    border-radius: 20px;
+}
+.search {
+    width: 100%;
+    margin: 10px 20px 10px auto;
+    display: flex;
+}
+
+.searchInput {
+    margin-right: 20px;
+    margin-left: auto;
+    height: 35px;
+    width: 200px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 15px;
+    text-align: right;
+    padding: 3px 15px;
+    font-size: 16px;
+}

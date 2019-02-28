@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "https://www.ikea.com/us/en/images/products/ekedalen-chair-brown__0516603_PE640439_S4.JPG",
+        "name": "Stolica",
+        "text" : "Lorem tetur ad ipsum tetur ad ipsum dolor sit amet, consectetur ad ipsum dolor sit amet, consectetur ad ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qorem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, ui officia deserunt mollit anim id orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, ",
+        "price": 110,
+        "favorite": true,
+        "rated": [
+            3,
+            4
+        ],
+        "comments": [
+            {
+                "id": "1",
+                "username": "ante",
+                "title": "recenzija 1",
+                "comment": "Super"
+            },
+            {
+                "id": "2",
+                "username": "mate",
+                "title": "recenzija 2",
+                "comment": "Odlično"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "imgUrl": "https://cdn4.jysk.com/getimage/wd2.large/13904",
+        "name": "Stol",
+        "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 91,
+        "favorite": false,
+        "rated": [
+            2,
+            5
+        ],
+        "comments": [
+            {
+                "id": "1",
+                "username": "ante",
+                "title": "recenzija 1",
+                "comment": "Super"
+            },
+            {
+                "id": "2",
+                "username": "mate",
+                "title": "recenzija 2",
+                "comment": "Odlično"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "imgUrl": "https://www.rondoshop.hr/376-thickbox_default/atomska-svjetiljka.jpg",
+        "name": "Svjetiljka",
+        "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi uorem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, t aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 94.5,
+        "favorite": false,
+        "rated": [
+            3,
+            5
+        ],
+        "comments": [
+            {
+                "id": "1",
+                "username": "ante",
+                "title": "recenzija 1",
+                "comment": "Super"
+            },
+            {
+                "id": "2",
+                "username": "mate",
+                "title": "recenzija 2",
+                "comment": "Odlično"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "imgUrl": "https://www.ikea.com/hr/hr/images/products/tjalla-zidni-sat__0633571_PE695905_S4.JPG",
+        "name": "Sat",
+        "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt morem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, conseorem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, ctetur adipiscing elit, ollit anim id est laborum.",
+        "price": 438.9,
+        "favorite": false,
+        "rated": [
+            4,
+            3
+        ],
+        "comments": [
+            {
+                "id": "1",
+                "username": "ante",
+                "title": "recenzija 1",
+                "comment": "Super"
+            },
+            {
+                "id": "2",
+                "username": "mate",
+                "title": "recenzija 2",
+                "comment": "Odlično"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "imgUrl": "https://www.instar-informatika.hr/slike/velike/mobitel-nokia-3310-dark-blue-45415_1.jpg",
+        "name": "Mobitel",
+        "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, orem ipsum dolor sit amet, consectetur adipiscing elit, id est laborum.",
+        "price": 20,
+        "favorite": true,
+        "rated": [
+            5,
+            5
+        ],
+        "comments": [
+            {
+                "id": "1",
+                "username": "ante",
+                "title": "recenzija 1",
+                "comment": "Super"
+            },
+            {
+                "id": "2",
+                "username": "mate",
+                "title": "recenzija 2",
+                "comment": "Odlično"
+            }
+        ]
+    }
+]

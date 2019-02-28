@@ -1,0 +1,106 @@
+.body{
+    background-color: rgb(245,245,245);
+}
+.details{
+    margin: 20px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 15px;
+    background-color: lightblue;
+}
+
+.backButton {
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background: rgb(255, 255, 0);
+    line-height: 3;
+    overflow: hidden; 
+    height: 2em;
+    line-height: 2em;
+    width: 5em;
+    margin: 40px;
+    text-align: center;
+}
+
+.backButton:hover {
+    background: rgb(230,230,0);
+    cursor: pointer;
+}
+.detailsHeader{
+    margin: 20px;
+    display: flex;
+}
+
+.detailsTitle{
+    margin: 20px;
+}
+
+.detailsRating{
+    margin: 20px 30px 0 auto;
+}
+
+.detailsBody{
+    display: flex;
+}
+
+.detailsImage{
+    height: 300px;
+    width: 250px;
+    margin: 30px;
+}
+
+.detailsDescription{
+    margin: 30px 20px 20px 20px;
+    padding-top: 50px;
+}
+
+.detailsComments{
+    margin-left: 40px;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.detailsComment{
+    margin: 20px;
+    font-size: 18px;
+}
+
+.detailsCommentUserName{
+    text-transform: uppercase;
+
+    margin-left: 50px;
+}
+
+.detailsCommentText{
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+
+.favorite {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 40px 10px 40px;
+
+
+    text-transform: uppercase;
+}
+
+.favoriteAdd:hover {
+    cursor: pointer;
+}
+
+.rate {
+    display: flex;
+}
+.rate:hover {
+    cursor: pointer;
+}
+
+.rateButton {
+    margin-left: 15px;  
+}
